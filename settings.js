@@ -1,10 +1,10 @@
 module.exports = {
-  botOwner: "Azar",
-  ownerNumber: "447347954535",
-  ownerLid: "",
+  botOwner: "Azar", // Enter your name.
+  ownerNumber: "918778901579",  // Enter your number (without +) & with country code
+  ownerLid: "", // ignore this!
   prefix: ".",
   botName: "AzahraBot",
-  version: "5.2.1",
+  version: "7.0.0",
   welcome: true,
   commandMode: "public",
   maxStoreMessages: 200,
