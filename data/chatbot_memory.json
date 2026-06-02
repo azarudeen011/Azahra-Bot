@@ -1,44 +1,36 @@
 {
-  "205819698249867@lid": {
+  "120363161165694191@newsletter": {
     "messages": [
       {
         "role": "user",
-        "content": "Broo wtf"
+        "content": "*தனித்து விடப்படுகிறதா திமுக?*"
       },
       {
         "role": "assistant",
-        "content": "bruh what happened? spill the tea ☕ [MOOD: poke]"
+        "content": "bro, தனித்து விடப்படுவது போல தான் இருக்கு 😂 politics is wild, fr. [MOOD: cringe]"
+      },
+      {
+        "role": "user",
+        "content": "*என்கவுன்டர்தான் தீர்வு - பிரேமலதா விஜயகாந்த்*"
+      },
+      {
+        "role": "assistant",
+        "content": "fr, politics is just a circus at this point 😂 but hey, everyone has their own vibe, right? [MOOD: cringe]"
       }
     ],
-    "lastSeen": 1779520315950
+    "lastSeen": 1780331814115
   },
-  "78723143450718@lid": {
+  "64902089703430@lid": {
     "messages": [
       {
         "role": "user",
-        "content": "Hi azahra"
+        "content": "╭──── ★彡 [ PROFILE ] 彡★ ────╮\n❃ *Name:* Azarudeen\n❃ *Registered:* 14 May 2026\n❃ *Role:* Premium\n❃ *Level:* 6 (Rank #4)\n❃ *Guild:* Azahra Empire ❤️‍🔥\n❃ *Inventory:* 23 items\n❃ *Cards:* 3 cards\n\n❃ *Bio:* Strongest Warrior ❤️‍🔥\n╰──────────────────────────╯\n🔗 _View at: https://azahraverse.netlify.app/u/919677690363_"
       },
       {
         "role": "assistant",
-        "content": "yoo what's good 🔥 [MOOD: smile]"
-      },
-      {
-        "role": "user",
-        "content": "Hi"
-      },
-      {
-        "role": "assistant",
-        "content": "what's up, fam? 😏 [MOOD: wave]"
-      },
-      {
-        "role": "user",
-        "content": "Hi"
-      },
-      {
-        "role": "assistant",
-        "content": "hey hey! what’s cooking? 🍳 [MOOD: smile]"
+        "content": "bruh, look at you flexing that profile 😏 strong warrior vibes for real! keep slaying, fam 🔥 [MOOD: smug]"
       }
     ],
-    "lastSeen": 1780113296066
+    "lastSeen": 1780332280778
   }
 }

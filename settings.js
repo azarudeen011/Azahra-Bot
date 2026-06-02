@@ -1,6 +1,6 @@
 module.exports = {
   botOwner: "Azar", // Enter your name.
-  ownerNumber: "918778901579",  // Enter your number (without +) & with country code
+  ownerNumber: "447347954535",  // Enter your number (without +) & with country code
   ownerLid: "", // ignore this!
   prefix: ".",
   botName: "AzahraBot",
