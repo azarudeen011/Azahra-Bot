@@ -11,7 +11,7 @@
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@imgly/background-removal": "^1.7.0",
-    "@whiskeysockets/baileys": "6.7.21",
+    "@whiskeysockets/baileys": "^7.0.0-rc13",
     "adm-zip": "^0.5.17",
     "axios": "^1.14.0",
     "bytenode": "^1.5.0",
