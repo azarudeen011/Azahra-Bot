@@ -1,4 +1,5 @@
 {
-  "enabled": false,
-  "engine": "gpt"
+  "enabled": true,
+  "engine": "gpt",
+  "voice": true
 }
