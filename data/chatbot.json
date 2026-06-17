@@ -1,6 +1,6 @@
 {
-  "enabled": true,
+  "enabled": false,
   "engine": "gpt",
   "voice": false,
-  "image": true
+  "image": false
 }
