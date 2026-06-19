@@ -1,0 +1,22 @@
+{
+  "120363410239738151@g.us": [
+    {
+      "role": "user",
+      "content": "1sx means?"
+    },
+    {
+      "role": "assistant",
+      "content": "1sx typically means \"one sex,\" often used in discussions about gender or sexual orientation. It can also refer to \"1st sex,\" but context matters!"
+    }
+  ],
+  "120363428038443920@g.us": [
+    {
+      "role": "user",
+      "content": "analyse this and say"
+    },
+    {
+      "role": "assistant",
+      "content": "This is a completed UPI payment of1,550 from Mohamed Azaren S to Manoj Kumar Bhatt on June 2026 at 6:50 am via Google Pay, using State Bank of India. Transaction IDs are provided for reference."
+    }
+  ]
+}
