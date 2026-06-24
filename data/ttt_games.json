@@ -1,1 +1,18 @@
-{}
+{
+  "ttt-1782323435334": {
+    "id": "ttt-1782323435334",
+    "chatId": "120363428038443920@g.us",
+    "x": "64902089703430@lid",
+    "o": "",
+    "state": "WAITING",
+    "roomName": null,
+    "game": {
+      "playerX": "64902089703430@lid",
+      "playerO": null,
+      "_currentTurn": false,
+      "_x": 0,
+      "_o": 0,
+      "turns": 0
+    }
+  }
+}
