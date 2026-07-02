@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "engine": "wild",
   "voice": false,
   "image": false
