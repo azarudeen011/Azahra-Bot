@@ -1,1 +1,8 @@
-{}
+{
+  "120363408097302072@g.us": {
+    "enabled": false,
+    "delete": true,
+    "warn": false,
+    "kick": false
+  }
+}
