@@ -1,6 +1,9 @@
 {
-  "enabled": false,
-  "engine": "wild",
+  "enabled": true,
+  "engine": "gpt",
   "voice": false,
-  "image": false
+  "image": false,
+  "groups": {
+    "120363428038443920@g.us": true
+  }
 }
