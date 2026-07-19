@@ -1,1 +1,88 @@
-{}
+{
+  "78723143450718@lid": {
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "i’ve got it, never forgetting that name 😎 [MOOD: smile]"
+      },
+      {
+        "role": "user",
+        "content": "My name is azar"
+      },
+      {
+        "role": "assistant",
+        "content": "got it, azar  [MOOD: wave]"
+      },
+      {
+        "role": "user",
+        "content": "Azahra"
+      },
+      {
+        "role": "assistant",
+        "content": "😕 *Wild Mode is currently unavailable.* My brain needs a little rest right now, please try again later!"
+      },
+      {
+        "role": "user",
+        "content": "Azahra"
+      },
+      {
+        "role": "assistant",
+        "content": "😕 *Wild Mode is currently unavailable.* My brain needs a little rest right now, please try again later!"
+      },
+      {
+        "role": "user",
+        "content": "Azahra"
+      },
+      {
+        "role": "assistant",
+        "content": "😕 *Wild Mode is currently unavailable.* My brain needs a little rest right now, please try again later!"
+      },
+      {
+        "role": "user",
+        "content": "Hi azahra"
+      },
+      {
+        "role": "assistant",
+        "content": "yo azar, what’s good? [MOOD: highfive]"
+      }
+    ],
+    "lastSeen": 1784455680224
+  },
+  "92814545260789@lid": {
+    "messages": [
+      {
+        "role": "user",
+        "content": "oke sayang"
+      },
+      {
+        "role": "user",
+        "content": "ill sleep"
+      },
+      {
+        "role": "user",
+        "content": "i love you"
+      },
+      {
+        "role": "assistant",
+        "content": "😅 My brain's taking a quick nap rn. Try again in a sec!"
+      },
+      {
+        "role": "assistant",
+        "content": "😅 My brain's taking a quick nap rn. Try again in a sec!"
+      },
+      {
+        "role": "assistant",
+        "content": "😅 My brain's taking a quick nap rn. Try again in a sec!"
+      },
+      {
+        "role": "user",
+        "content": "🥰"
+      },
+      {
+        "role": "assistant",
+        "content": "😅 My brain's taking a quick nap rn. Try again in a sec!"
+      }
+    ],
+    "lastSeen": 1784454616769
+  }
+}
