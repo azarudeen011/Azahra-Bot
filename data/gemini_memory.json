@@ -1,1 +1,20 @@
-{}
+{
+  "120363428038443920@g.us": [
+    {
+      "role": "user",
+      "parts": [
+        {
+          "text": "hi"
+        }
+      ]
+    },
+    {
+      "role": "model",
+      "parts": [
+        {
+          "text": "Hi there! How can I help you today?"
+        }
+      ]
+    }
+  ]
+}

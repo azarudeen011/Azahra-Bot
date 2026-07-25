@@ -3,14 +3,6 @@
     "messages": [
       {
         "role": "assistant",
-        "content": "i’ve got it, never forgetting that name 😎 [MOOD: smile]"
-      },
-      {
-        "role": "user",
-        "content": "My name is azar"
-      },
-      {
-        "role": "assistant",
         "content": "got it, azar  [MOOD: wave]"
       },
       {
@@ -44,9 +36,17 @@
       {
         "role": "assistant",
         "content": "yo azar, what’s good? [MOOD: highfive]"
+      },
+      {
+        "role": "user",
+        "content": "Hi azahra"
+      },
+      {
+        "role": "assistant",
+        "content": "hey azar! what's up? [MOOD: wave]"
       }
     ],
-    "lastSeen": 1784455680224
+    "lastSeen": 1784960246663
   },
   "92814545260789@lid": {
     "messages": [
