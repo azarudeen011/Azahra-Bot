@@ -1,0 +1,19 @@
+{
+  "120363427203637227@g.us": {
+    "features": {
+      "pokemon": false,
+      "economy": false,
+      "pokebattle": false
+    },
+    "links": {
+      "pokemon": "https://chat.whatsapp.com/JOeQGYO4hW7KSC1Vc9EO5i",
+      "economy": "https://chat.whatsapp.com/HWZJsDfC6Me2Lvu9YSzH4H"
+    }
+  },
+  "120363410045146802@g.us": {
+    "features": {},
+    "links": {
+      "economy": "https://chat.whatsapp.com/HWZJsDfC6Me2Lvu9YSzH4H"
+    }
+  }
+}
