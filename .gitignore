@@ -80,3 +80,10 @@ temp/
 # Git & package management
 .git/
 package-lock.json
+
+# --------------------------------------------------------
+#  ANTI-DEOBFUSCATION / SOURCE PROTECTION
+# --------------------------------------------------------
+src/
+build.js
+postProtect.js
